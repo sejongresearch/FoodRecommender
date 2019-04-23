@@ -1,4 +1,3 @@
-# - 
+# Personal Meal Planner
 
-This is AI Classification program for Personal Meal Planner.
-
+This is AI Classification program for term project.
