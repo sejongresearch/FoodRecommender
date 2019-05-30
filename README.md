@@ -91,6 +91,10 @@
 
 - [학습2](https://github.com/sorachin/AI_Team10/issues/3)
 
+- [케라스 블로그](https://tykimos.github.io/)
+
+- [케라스](https://keras.io/)
+
 ## 참고 서적
 - [케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)](https://book.naver.com/bookdb/book_detail.nhn?bid=14069088)
 
