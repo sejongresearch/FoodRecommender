@@ -87,6 +87,8 @@
 
 [tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
 
+## 참고 서적
+- 케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)
 
 #### 팀원
   이 름 | 학 과 | 학 번
