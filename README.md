@@ -73,10 +73,10 @@
  ### 향후 계획
   1.
   
-
-[모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
 ###
 ## 참고 URL
 [EIRIC](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
+
 [한식 이미지 분류에서의 미리 학습 된 컨볼루셔널 뉴럴 네트워크 간 성능 비교 분석](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
+
 [tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
