@@ -42,8 +42,8 @@
       - [tensorflow hub image classfication 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
     - Fully-connected 계층 개선 [논문에 작성된 계층을 참고할 예정](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 ## 향후 계획
- - 
- - 
+ - 모델 성능 개선
+ - 사용자 정보를 토대로 정보 
  -
  -    
 
