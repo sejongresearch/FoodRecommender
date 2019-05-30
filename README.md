@@ -42,9 +42,28 @@
       - [tensorflow hub image classfication 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
     - Fully-connected 계층 개선 [논문에 작성된 계층을 참고할 예정](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 ## 향후 계획
- - 모델 성능 개선
- - 사용자 정보를 토대로 정보 
- - 시각화를 위한 텐서보드    
+### 모델 성능 개선
+- 이미지 추가
+- [fine tuning](https://github.com/sorachin/AI_Team10/issues/10)
+- [Batch nomarlization](https://github.com/sorachin/AI_Team10/issues/11)
+- [Augmentation](https://github.com/sorachin/AI_Team10/issues/9)
+- [CallBack을 통한 학습 제어](https://github.com/sorachin/AI_Team10/issues/14)
+- [hyperparmeter optimization](https://github.com/sorachin/AI_Team10/issues/12)
+- 모델 평가를 시각화하여 분석(텐서보드)
+
+### 모델 성능 평가
+- 텐서보드
+
+### 음식 추천 구현
+- 사용자 정보
+   - 칼로리
+   - 선호 음식
+   - 기분
+- 방법
+   - 이전에 촬영한 음식을 인식, 칼로리를 측정하여 추천 칼로리를 가진 음식들을 선정
+   - 나이대 별, 성별, 기분 별 기준을 정해 추천 음식들 선정
+   - 이전에 먹은 음식 종류 제외
+   - 위 기준에서 가중치가 높은 음식을 추천, 동률이 있다면 그 중 랜덤으로 출력
 
 ## 회의록
   #### 1 차 회의: 주제 선정
@@ -86,13 +105,13 @@
 
 - [tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
 
-- [학습1](https://github.com/sorachin/AI_Team10/issues/5)
+- [학습](https://github.com/sorachin/AI_Team10/issues/5)
 
 - [학습2](https://github.com/sorachin/AI_Team10/issues/3)
 
-- [Keras 블로그](https://tykimos.github.io/)
+- [케라스 블로그](https://tykimos.github.io/)
 
-- [Keras](https://keras.io/)
+- [케라스](https://keras.io/)
 
 ## 참고 서적
 - [케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)](https://book.naver.com/bookdb/book_detail.nhn?bid=14069088)
