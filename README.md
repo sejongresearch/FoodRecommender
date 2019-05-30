@@ -1,11 +1,5 @@
 # 음식 추천 분류기 (Meal Planner)
 
-### 팀원
-  이 름 | 학 과 | 학 번
-  -----|--------|------
-  **김태주**|**무인이동체공학**|**17013247**
-  진소라|디지털컨텐츠|14011195
-  황태희|무인이동체공학|17013254
 
 ## 진행 상황
 #### 1. Dataset
@@ -47,7 +41,11 @@
       - fine tuning (사용 계획 중)
       - [tensorflow hub image classfication 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
     - Fully-connected 계층 개선 [논문에 작성된 계층을 참고할 예정](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
-    
+## 향후 계획
+ - 
+ - 
+ -
+ -    
 
 ## 회의록
   #### 1 차 회의: 주제 선정
@@ -78,11 +76,6 @@
     - 간단하게 3 개의 클래스로 모델 학습
   #### 7 차 회의: 데이터를 이용한 CNN 모델 테스트
 
-## 향후 계획
- - 
- - 
- -
- -
 
 ###
 ## 참고 URL
@@ -93,3 +86,11 @@
 [한식 이미지 분류에서의 미리 학습 된 컨볼루셔널 뉴럴 네트워크 간 성능 비교 분석](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 
 [tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
+
+
+##### 팀원
+  이 름 | 학 과 | 학 번
+  -----|--------|------
+  **김태주**|**무인이동체공학**|**17013247**
+  진소라|디지털컨텐츠|14011195
+  황태희|무인이동체공학|17013254
