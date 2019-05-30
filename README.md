@@ -79,10 +79,14 @@
   #### 7 차 회의: 데이터를 이용한 CNN 모델 테스트
 
 ## 향후 계획
+ - 데이터 여러 번 학습 
+ - 정확도
 
 ###
 ## 참고 URL
-[EIRIC](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
+[Matplot 한글폰트](https://programmers.co.kr/learn/courses/21/lessons/950
+
+[EIRIC 논문](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 
 [한식 이미지 분류에서의 미리 학습 된 컨볼루셔널 뉴럴 네트워크 간 성능 비교 분석](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 
