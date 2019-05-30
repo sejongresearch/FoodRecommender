@@ -62,6 +62,8 @@
     - 식사한 음식과 사용자 정보를 토대로 음식을 추천해 준다  
   #### 3 차 회의: 역할 분담 및 계획서 작성, CNN 학습
    [계획서](https://github.com/sorachin/AI_Team10/files/3175674/default.pdf)
+   
+   [CNN 동영상 강의](https://www.youtube.com/watch?v=E9Xh_fc9KnQ&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm&index=38)
   #### 4 차 회의: 자료 조사 및 자료 수집
     - 김태주: 한식 이미지 데이터 (한국정보화진흥원)
     - 진소라: 대표적인 기분 표현
