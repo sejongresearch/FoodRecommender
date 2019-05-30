@@ -68,7 +68,8 @@
    [학습한 모델](https://colab.research.google.com/drive/1jBvq9NepJNfAjV73ArQG3o-wFXGlFYsa)
   ## 8 차 회의: 데이터를 이용한 CNN 모델 테스트
   epoch 값, train 갯수, learning rate 조정
-  ## 9 차 회의: TensorBoard를 이용한 시각화
+
+## 향후 계획  
   
 
 [모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
