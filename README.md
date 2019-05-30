@@ -32,7 +32,7 @@
     - 이미지 추가 (이미지 추가 중)
   - 데이터 전처리
     - [Augmentation (사용 계획 중)](https://github.com/sorachin/AI_Team10/issues/9)
-   - 모델
+  - 모델
     - [Pre-training](https://github.com/sorachin/AI_Team10/issues/10)
      - feature extraction (현)
      - fine tuning (사용 계획 중)
