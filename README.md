@@ -34,8 +34,8 @@
     - [Augmentation (사용 계획 중)](https://github.com/sorachin/AI_Team10/issues/9)
   - 모델
     - [Pre-training](https://github.com/sorachin/AI_Team10/issues/10)
-     - feature extraction (현)
-     - fine tuning (사용 계획 중)
+      - feature extraction (현)
+      - fine tuning (사용 계획 중)
     - Fully-connected 계층 개선[논문에 작성된 계층을 참고할 예정](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 [tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
 ## 회의록
