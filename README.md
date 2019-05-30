@@ -65,15 +65,13 @@
    
    [Keras](https://github.com/sorachin/AI_Team10/issues/9)
   ## 6 차 회의: 데이터 전처리 및 간단한 학습
-    - Inception V3 모델 사용
     - 간단하게 3 개의 클래스로 모델 학습
-   [학습한 모델](https://colab.research.google.com/drive/1jBvq9NepJNfAjV73ArQG3o-wFXGlFYsa)
-  ## 8 차 회의: 데이터를 이용한 CNN 모델 테스트
-  epoch 값, train 갯수, learning rate 조정
+  ## 7 차 회의: 데이터를 이용한 CNN 모델 테스트
+  
 
 ## 향후 계획 
  ### 향후 계획
-
+  1.
   
 
 [모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
