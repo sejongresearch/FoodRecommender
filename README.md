@@ -24,16 +24,18 @@
 ### 3. Conv Neural Network
   - 계획
     - 모델 조사
-    - 모델 선정
-    - 모델 테스트
+    - [모델 선정(1차 선정)](https://github.com/sorachin/AI_Team10/issues/16)
+    - [모델 테스트(2차 선정)](https://github.com/sorachin/AI_Team10/issues/16)
 
 ### 4. 모델 성능 개선
   - 데이터셋
-    - 이미지 추가, Au
+    - 이미지 추가 (이미지 추가 중)
   - 데이터 전처리
-    - Augmentation
+    - Augmentation (사용 계획 중)
    - 모델
     - Pre-training
+     - feature extraction (현)
+     - fine tuning (사용 계획 중)
     - Fully-connected 계층 개선
 
 ## 회의록
@@ -74,5 +76,7 @@
 
 [모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
 ###
-## 참고 UR
+## 참고 URL
 [EIRIC](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
+[한식 이미지 분류에서의 미리 학습 된 컨볼루셔널 뉴럴 네트워크 간 성능 비교 분석](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
+[tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
