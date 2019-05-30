@@ -83,11 +83,13 @@
 ## 참고 URL
 - [Matplot 한글폰트](https://programmers.co.kr/learn/courses/21/lessons/950)
 
-- [EIRIC 논문](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
-
 - [한식 이미지 분류에서의 미리 학습 된 컨볼루셔널 뉴럴 네트워크 간 성능 비교 분석](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 
 - [tensorflow hub 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
+
+- [학습](https://github.com/sorachin/AI_Team10/issues/5)
+
+- [학습2](https://github.com/sorachin/AI_Team10/issues/3)
 
 ## 참고 서적
 - 케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)
