@@ -1,4 +1,4 @@
-## 진행상황
+## 진행 상황
 ### 1. Dataset
 30개 카테고리 x 이미지 300장 = 9,000장
   - 선정한 이미지 데이터 셋 : http://www.aihub.or.kr/content/140
@@ -69,7 +69,9 @@
   ## 8 차 회의: 데이터를 이용한 CNN 모델 테스트
   epoch 값, train 갯수, learning rate 조정
 
-## 향후 계획  
+## 향후 계획 
+ ### 향후 계획
+
   
 
 [모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
