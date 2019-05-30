@@ -68,7 +68,8 @@
    [학습한 모델](https://colab.research.google.com/drive/1jBvq9NepJNfAjV73ArQG3o-wFXGlFYsa)
   ## 8 차 회의: 데이터를 이용한 CNN 모델 테스트
   epoch 값, train 갯수, learning rate 조정
- [모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
+
+[모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
 ###
 ## 참고 UR
 [EIRIC](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
