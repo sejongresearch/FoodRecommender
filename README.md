@@ -84,7 +84,7 @@
 
 ###
 ## 참고 URL
-[Matplot 한글폰트](https://programmers.co.kr/learn/courses/21/lessons/950
+[Matplot 한글폰트](https://programmers.co.kr/learn/courses/21/lessons/950)
 
 [EIRIC 논문](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
 
