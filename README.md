@@ -40,15 +40,34 @@
 
 ## 회의록
 ### 회의록
-  ## 4/6 주제선정
-    - 영문법 자동체크
-    - 뉴스분류기
-    - Meal Planner(or 음식 추천) 중 Meal Planner로 선정
-  ## 4/8 Meal Planner(or 음식 추천) 설계 회의
+  ## 1 차 회의: 주제 선정
+    - 영문법 자동 체크
+    - 뉴스 분류기
+    - 음식 추천 분류기
+    - 버섯 분류기
+    ∙ 위 네 가지 주제 중 음식 추천 분류기로 선정
+    ∙ 이 후 각자 음식 추천 분류기에 대해 학습
+  ## 2 차 회의: 음식 추천 분류기 설계
     - 사용자가 식사 중인 사진을 찍는다
-    - 사진을 인식하여 음식 종류를 분류
-    - 사용자의 정보 입력 (나이, 키, 몸무게, 성별 등) -> 필요 신진대사 및 나이, 성별 별 선호 음식을 정하기위해
-    - 식사한 음식과 사용자 정보를 토대로 Meal planner(or 음식 추천)을 함
-  ## ??? 추가 요함
+    - 사진을 인식하여 음식 종류를 분류한다
+    - 사용자의 정보를 입력한다 (나이, 키, 몸무게, 성별, 기분 등)
+    - 식사한 음식과 사용자 정보를 토대로 음식을 추천해 준다  
+  ## 3 차 회의: 역할 분담 및 계획서 작성, CNN 학습
+   [계획서](https://github.com/sorachin/AI_Team10/files/3175674/default.pdf)
+  ## 4 차 회의: 자료 조사 및 자료 수집
+    - 김태주: 한식 이미지 데이터 (한국정보화진흥원)
+    - 진소라: 대표적인 기분 표현
+    - 황태희: 음식별 칼로리 
+  ## 5 차 회의: Tensorflow와 Keras 학습 
+   [Tensorflow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+   
+   [Keras](https://github.com/sorachin/AI_Team10/issues/9)
+  ## 6~7 차 회의: 전처리 및 데이터를 활용한 CNN 모델 테스트
+    - Epoch 값 조정
+    - Train 갯수 조정
+    - Learning rate 조정
+   [모델 테스트](https://github.com/sorachin/AI_Team10/issues/16)
+  ## 8 차 회의: 
+ 
 ###
 ## 참고 UR
