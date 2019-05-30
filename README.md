@@ -64,15 +64,13 @@
    [Tensorflow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
    
    [Keras](https://github.com/sorachin/AI_Team10/issues/9)
+   
+   [데이터 관련 학습](https://github.com/sorachin/AI_Team10/issues/3)
   ## 6 차 회의: 데이터 전처리 및 간단한 학습
     - 간단하게 3 개의 클래스로 모델 학습
   ## 7 차 회의: 데이터를 이용한 CNN 모델 테스트
   
 
-## 향후 계획 
- ### 향후 계획
-  1.
-  
 ###
 ## 참고 URL
 [EIRIC](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
