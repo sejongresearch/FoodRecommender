@@ -92,7 +92,7 @@
 - [학습2](https://github.com/sorachin/AI_Team10/issues/3)
 
 ## 참고 서적
-- 케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)
+- [케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)](https://book.naver.com/bookdb/book_detail.nhn?bid=14069088)
 
 #### 팀원
   이 름 | 학 과 | 학 번
