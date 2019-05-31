@@ -44,7 +44,7 @@
     
 #### 5. 모델 테스트
   - [모델 테스트](https://github.com/sorachin/AI_Team10/issues/20) : small_data + trained model(feature extraction) + fc
-  - 모델 테스트 : datad(16class x 1,000장) + trained model(feature extraction) + fc
+  - [모델 테스트2](https://github.com/sorachin/AI_Team10/issues/21) : datad(16class x 1,000장) + trained model(feature extraction) + fc
 ## 향후 계획
 ### 모델 성능 개선
 - 이미지 추가
