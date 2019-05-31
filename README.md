@@ -41,6 +41,10 @@
       - fine tuning (사용 계획 중)
       - [tensorflow hub image classfication 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
     - Fully-connected 계층 개선 [논문에 작성된 계층을 참고할 예정](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
+    
+#### 5. 모델 테스트
+  - [모델 테스트](https://github.com/sorachin/AI_Team10/issues/20) : small_data + trained model(feature extraction) + fc
+  - 모델 테스트 : datad(16class x 1,000장) + trained model(feature extraction) + fc
 ## 향후 계획
 ### 모델 성능 개선
 - 이미지 추가
@@ -95,6 +99,7 @@
   #### 6 차 회의: 데이터 전처리 및 간단한 학습
     - 간단하게 3 개의 클래스로 모델 학습
   #### 7 차 회의: 데이터를 이용한 CNN 모델 테스트
+    - [모델 테스트](https://github.com/sorachin/AI_Team10/issues/20) : small_data + trained model(feature extraction) + fc
   #### 8 차 회의: 향후 계획 설계 및 중간점검 보고서 작성
 
 
