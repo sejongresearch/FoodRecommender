@@ -99,7 +99,7 @@
   #### 6 차 회의: 데이터 전처리 및 간단한 학습
     - 간단하게 3 개의 클래스로 모델 학습
   #### 7 차 회의: 데이터를 이용한 CNN 모델 테스트
-    - [모델 테스트](https://github.com/sorachin/AI_Team10/issues/20) : small_data + trained model(feature extraction) + fc
+   [모델 테스트](https://github.com/sorachin/AI_Team10/issues/20) : small_data + trained model(feature extraction) + fc
   #### 8 차 회의: 향후 계획 설계 및 중간점검 보고서 작성
 
 
