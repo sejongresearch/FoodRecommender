@@ -2,7 +2,7 @@
 
 
 ## 진행 상황
-#### 1. Dataset
+#### 1. Dataset // 데이터셋 변경 요망
   - [선정한 이미지 데이터 셋](http://www.aihub.or.kr/content/140)
     - 150개의 카테고리 x 이미지 1,000장 = 150,000장
 
@@ -24,6 +24,7 @@
     카테고리 : 갈비탕, 갈비구이, 감자채볶음, 계란찜, 김밥, 만두, 물회, 배추김치, 꼬막찜, 된장찌개, 떡볶이, 만두, 물회, 배추김치, 삼계탕, 새우튀김,     소세지볶음, 순대, 식혜, 약과, 자장면, 족발, 찜닭, 콩자반, 피자, 한과, 해물찜, 후라이드치킨
 ***
 #### 2. Imgage Preprocessing
+  - imagedatageneration
 #### 3. Conv Neural Network
   - 계획
     - 모델 조사
@@ -31,14 +32,13 @@
     - [모델 테스트(2차 선정)](https://github.com/sorachin/AI_Team10/issues/16)
 
 #### 4. 모델 성능 개선
-  - 데이터셋
-    - 이미지 추가 (이미지 추가 중)
+  - 데이터 셋
   - 데이터 전처리
     - [Augmentation (사용 계획 중)](https://github.com/sorachin/AI_Team10/issues/9)
   - 모델
     - [Pre-training](https://github.com/sorachin/AI_Team10/issues/10)
       - feature extraction (현)
-      - fine tuning (사용 계획 중)
+      - [fine tuning](https://github.com/sorachin/AI_Team10/issues/25)
       - [tensorflow hub image classfication 예제](https://www.tensorflow.org/tutorials/images/hub_with_keras)
     - Fully-connected 계층 개선 [논문에 작성된 계층을 참고할 예정](https://www.eiric.or.kr/community/post2_cseric.php?m=view&gubun=201804&num=15137&pg=5&seGubun=10&seGubun1=&SnxGubun=%C6%F7%BD%BA%C5%CD&searchBy=&searchWord=)
     
@@ -58,7 +58,7 @@
 ### 모델 성능 평가
 - 텐서보드
 
-### 음식 추천 구현
+### 음식 추천 구현 // 추가 요망
 - 사용자 정보
    - 칼로리
    - 선호 음식
@@ -101,6 +101,8 @@
   #### 7 차 회의: 데이터를 이용한 CNN 모델 테스트
    [모델 테스트](https://github.com/sorachin/AI_Team10/issues/20) : small_data + trained model(feature extraction) + fc
   #### 8 차 회의: 향후 계획 설계 및 중간점검 보고서 작성
+  
+  #### 9 차 회의
 
 
 ###
