@@ -34,7 +34,7 @@
 #### 4. 모델 성능 개선
   - 데이터 셋
   - 데이터 전처리
-    - [Augmentation (사용 계획 중)](https://github.com/sorachin/AI_Team10/issues/9)
+    - [Augmentation](https://github.com/sorachin/AI_Team10/issues/9)
   - 모델
     - [Pre-training](https://github.com/sorachin/AI_Team10/issues/10)
       - feature extraction (현)
