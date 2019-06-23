@@ -1,10 +1,10 @@
 # 음식 추천 분류기 (Meal Planner)
 
 ## 최종 
-[최종 코드](https://github.com/sejongresearch/AI_Team10/blob/master/final_ai10.ipynb)
-[CNN 학습 데이터](https://github.com/sejongresearch/AI_Team10/blob/master/DenseNet_fine_arg_final.ipynb)
-[CNN 학습 데이터](https://github.com/sejongresearch/AI_Team10/blob/master/T2_load_DenseNet_fine_arg_final.ipynb)
-[기분 분류기](https://github.com/sejongresearch/AI_Team10/blob/master/hash_tag_classification.ipynb)
+- [최종 코드](https://github.com/sejongresearch/AI_Team10/blob/master/final_ai10.ipynb)
+- [CNN 학습 데이터](https://github.com/sejongresearch/AI_Team10/blob/master/DenseNet_fine_arg_final.ipynb)
+- [CNN 학습 데이터](https://github.com/sejongresearch/AI_Team10/blob/master/T2_load_DenseNet_fine_arg_final.ipynb)
+- [기분 분류기](https://github.com/sejongresearch/AI_Team10/blob/master/hash_tag_classification.ipynb)
 ## 보고서
 [보고서 (1).doc](https://github.com/sejongresearch/AI_Team10/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20(1).doc)
 ## PPT 자료
