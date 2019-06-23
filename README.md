@@ -1,7 +1,13 @@
 # 음식 추천 분류기 (Meal Planner)
 
+## 최종 
 
-## 진행 상황
+## 보고서
+[보고서 (1).doc](https://github.com/sejongresearch/AI_Team10/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20(1).doc)
+## PPT 자료
+[식품 분류기 (1).pptx](https://github.com/sejongresearch/AI_Team10/blob/master/%EC%8B%9D%ED%92%88%20%EB%B6%84%EB%A5%98%EA%B8%B0%20(1).pptx)
+
+## 진행 과정
 #### 1. Dataset // 재분류된 데이터 셋 추가 요망
   - [선정한 이미지 데이터 셋](http://www.aihub.or.kr/content/140)
     - 150개의 카테고리 x 이미지 1,000장 = 150,000장
@@ -124,10 +130,6 @@
 ## 참고 서적
 - [케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)](https://book.naver.com/bookdb/book_detail.nhn?bid=14069088)
 
-## 보고서
-[보고서 (1).doc](https://github.com/sejongresearch/AI_Team10/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20(1).doc)
-## PPT 자료
-[식품 분류기 (1).pptx](https://github.com/sejongresearch/AI_Team10/blob/master/%EC%8B%9D%ED%92%88%20%EB%B6%84%EB%A5%98%EA%B8%B0%20(1).pptx)
 
 #### 팀원
   이 름 | 학 과 | 학 번
