@@ -125,7 +125,7 @@
 - [케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)](https://book.naver.com/bookdb/book_detail.nhn?bid=14069088)
 
 ## 보고서
-보고서 (1).doc
+[보고서 (1).doc](https://github.com/sejongresearch/AI_Team10/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20(1).doc)
 ## PPT 자료
 [식품 분류기 (1).pptx](https://github.com/sejongresearch/AI_Team10/blob/master/%EC%8B%9D%ED%92%88%20%EB%B6%84%EB%A5%98%EA%B8%B0%20(1).pptx)
 
