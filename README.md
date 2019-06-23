@@ -127,7 +127,7 @@
 ## 보고서
 보고서 (1).doc
 ## PPT 자료
-식품 분류기 (1).pptx
+[식품 분류기 (1).pptx](https://github.com/sejongresearch/AI_Team10/blob/master/%EC%8B%9D%ED%92%88%20%EB%B6%84%EB%A5%98%EA%B8%B0%20(1).pptx)
 
 #### 팀원
   이 름 | 학 과 | 학 번
