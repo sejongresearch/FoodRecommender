@@ -125,7 +125,7 @@
 - [케라스 창시자에게 배우는 딥러닝(저자: 프랑소와 숄레)](https://book.naver.com/bookdb/book_detail.nhn?bid=14069088)
 
 ## 보고서
-
+보고서 (1).doc
 ## PPT 자료
 식품 분류기 (1).pptx
 
