@@ -6,9 +6,9 @@
 - [CNN 학습 데이터](https://github.com/sejongresearch/AI_Team10/blob/master/T2_load_DenseNet_fine_arg_final.ipynb)
 - [기분 분류기](https://github.com/sejongresearch/AI_Team10/blob/master/hash_tag_classification.ipynb)
 ## 보고서
-[보고서 (1).doc](https://github.com/sejongresearch/AI_Team10/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20(1).doc)
+[보고서.doc](https://github.com/sejongresearch/AI_Team10/blob/master/%EB%B3%B4%EA%B3%A0%EC%84%9C%20(1).doc)
 ## PPT 자료
-[식품 분류기 (1).pptx](https://github.com/sejongresearch/AI_Team10/blob/master/%EC%8B%9D%ED%92%88%20%EB%B6%84%EB%A5%98%EA%B8%B0%20(1).pptx)
+[식품 분류기.pptx](https://github.com/sejongresearch/AI_Team10/blob/master/%EC%8B%9D%ED%92%88%20%EB%B6%84%EB%A5%98%EA%B8%B0%20(1).pptx)
 
 ## 진행 과정
 #### 1. Dataset // 재분류된 데이터 셋 추가 요망
